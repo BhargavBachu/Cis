@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I have 10+ years of Experience
+=======
+Hi Im Sr.DevOps Engineer
+>>>>>>> feature1
